@@ -1,0 +1,21 @@
+body
+{
+   background-color:#e3fdfd ;    
+}
+hr {
+  /* background-color: rgb(175, 10, 10); */
+  border-style: none ;
+  border-top-style: dotted ;
+  border-width: 5px;
+       width: 10%;
+}
+h1 {
+     color: green;
+    font-family:'Courier New';
+}
+h3 {
+    color: rgb(210, 49, 224);
+}
+img {
+    background-color: yellow;
+}
